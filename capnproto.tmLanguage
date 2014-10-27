@@ -64,24 +64,12 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>entity.name.function.capnp</string>
+					<string>entity.name.type.capnp</string>
 				</dict>
 			</dict>
 			<key>match</key>
 			<string>(?&lt;=struct|enum|annotation)\s+([a-zA-Z0-9_]+)\b</string>
 		</dict>
-		<!--<dict>
-			<key>captures</key>
-			<dict>
-				<key>1</key>
-				<dict>
-					<key>name</key>
-					<string>entity.name.field.capnp</string>
-				</dict>
-			</dict>
-			<key>match</key>
-			<string>\b([a-zA-Z0-9_]+)(?=\s*(@[0-9]+)|(:\s*(group|union)))\b</string>
-		</dict>-->
 		<dict>
 			<key>begin</key>
 			<string>#</string>
