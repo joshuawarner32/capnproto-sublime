@@ -27,3 +27,7 @@ The plugin should be picked up automatically. If not, restart Sublime Text.
 ## Bugs and Feature Requests
 
 <https://github.com/joshuawarner32/capnproto-sublime>
+
+## License
+
+This plugin is licensed under the ISC/BSD license.  See `LICENSE` file for details.
