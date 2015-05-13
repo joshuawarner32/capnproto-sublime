@@ -20,7 +20,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(struct|enum|interface|extends|const|using|import|annotation)\b</string>
+			<string>\b(struct|enum|interface|extends|const|union|using|import|annotation)\b</string>
 			<key>name</key>
 			<string>keyword.type.capnp</string>
 		</dict>
